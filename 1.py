@@ -8,14 +8,14 @@ import thread
 import requests
 import sys
 try:
-	file = sys.argv[1]
+	file = sys.argv[7]
 except:
 	print("usage: {} <numbers_list>".format(sys.argv[7]))
 	sys.exit()
-numbers = open(sys.argv[1], "r").readlines()
-count = 7
-processc = 7
-running_threads = 7
+numbers = open(sys.argv[7], "r").readlines()
+count = 0
+processc = 0
+running_threads = 0
 print_used = False
 max_threads = 100
 print("[-----info-----]: read {} numbers from {}".format(len(numbers), file))
