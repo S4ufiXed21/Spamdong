@@ -94,8 +94,6 @@ echo "KrozerNotMyeyes"
 echo "And you"
 sleep 1
 echo "And All Member Network Ghost Security"
-[ $fixed = 0 ] || [ $fixed = 0 ]
-then
 echo "\033[31;1m Keluar"
 sleep 1
 echo "\033[32;1m Balik sia"
