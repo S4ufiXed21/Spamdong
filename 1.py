@@ -1,5 +1,3 @@
-<?php
-include 'func.php';
 print("""\
    __  __________  __
   /  |/  /  _/ _ \/ / | Make-It-Ring!
