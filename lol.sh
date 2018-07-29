@@ -72,7 +72,7 @@ python2 6.py
 fi
 
 if
-[ $fixed = 100 ] || [ $fixed = 100 ]
+[ $fixed = 0 ] || [ $fixed = 0 ]
 then
 clear
 toilet -f slant --gay "Yadong Tools Spammer"
