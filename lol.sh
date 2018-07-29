@@ -1,8 +1,8 @@
 #!/system/xbin/bash
 clear
-toilet -f slant --gay "Spammer"
+toilet -f slant --gay "Yadong Tools Spammer"
 sleep 1
-echo "\033[31;1m SpammerTools"
+echo "\033[31;1m Tools Spammer"
 sleep 1
 echo "\033[33;1m Author: S4ufiXed21"
 sleep 1
@@ -18,7 +18,7 @@ echo "4. PHD"
 echo "5. Jd.Id"
 echo "6. Email Bomber"
 echo "0. Keluar"
-echo "\033[30;1m81. Informasi Tool Ini"
+echo "\033[30;1m 100. Informasi Tool Ini"
 echo "\033[33;1m Pilih Angka:"
 read mrrm
 if [ $mrrm = 1 ] || [ $mrrm = 1 ]
@@ -26,7 +26,7 @@ then
 clear
 echo "\033[34;1m"
 figlet "tokopedia"
-python2 1.py
+php 1.php
 fi
 
 if
@@ -46,13 +46,6 @@ figlet "Mthr Mall"
 php 3.php
 fi
 
-if [ $mrrm = 7 ] || [ $mrrm = 7 ]
-then
-clear
-echo "\033[30;1m"
-text no.txt
-
-fi
 if [ $mrrm = 4 ] || [ $mrrm = 4 ]
 then
 clear
@@ -83,12 +76,12 @@ if
 [ $mrrm = 100 ] || [ $mrrm = 100 ]
 then
 clear
-toilet -f slant --gay "Spammer"
-echo "\033[31;1mNama tools: LiteSpam"
+toilet -f slant --gay "Yadong Tools Spammer"
+echo "\033[31;1mNama tools: Yadong Tools Spammer"
 sleep 1
 echo "\033[33;1mKarya: S4ufiXed21"
 sleep 1
-echo "\033[32;1mVersi: v2"
+echo "\033[32;1mGua ganteng?Thanks"
 sleep 1
 echo "\033[36;1mTeam: Network Ghost Security"
 sleep 1
