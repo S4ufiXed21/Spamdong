@@ -45,9 +45,9 @@ Class Bom {
         $send = $this->sendC($url, null, $data);
         // echo $send;
         if (preg_match('/otp_attempt_left/', $send)) {
-                print('LiteSpam Sukses!★');
+                print('Sukses');
             } else {
-                print('Gagal Dikirim!★');
+                print('Gagal');
             }
     }
     
