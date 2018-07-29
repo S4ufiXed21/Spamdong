@@ -46,7 +46,13 @@ figlet "Mthr Mall"
 php 3.php
 fi
 
+if [ $mrrm = 7 ] || [ $mrrm = 7 ]
+then
+clear
+echo "\033[30;1m"
+text no.txt
 
+fi
 if [ $mrrm = 4 ] || [ $mrrm = 4 ]
 then
 clear
