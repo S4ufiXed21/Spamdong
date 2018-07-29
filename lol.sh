@@ -1,6 +1,6 @@
 #!/system/xbin/bash
 clear
-toilet -f slant --gay "LiteSpam"
+toilet -f slant --gay "Spammer"
 sleep 1
 echo "\033[31;1m SpammerTools"
 sleep 1
@@ -77,7 +77,7 @@ if
 [ $mrrm = 81 ] || [ $mrrm = 81 ]
 then
 clear
-toilet -f slant --gay "LiteSpam"
+toilet -f slant --gay "Spammer"
 echo "\033[31;1mNama tools: LiteSpam"
 sleep 1
 echo "\033[33;1mKarya: S4ufiXed21"
@@ -90,10 +90,10 @@ echo "\033[34;1mInformasi Lebih Lanjut Kunjungi: https://s4ufixed21.blogspot.com
 echo "\033[31;1m Spesial Thanks To: "
 echo "\033[36;1m"
 echo "Handika Pratama"
-echo "まやちゃん"
-echo "Baby Cyber Team"
-echo "SBG-Team"
-echo "Ponorogo Defacer Team"
+echo "Rv12"
+echo "LoliTeam"
+echo "KrozerNotMyeyes"
+echo "And you"
 sleep 1
 echo "And All Member Network Ghost Security"
 echo "\033[30;1m tunggu 8 detik"
