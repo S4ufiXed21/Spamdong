@@ -74,7 +74,7 @@ python2 6.py
 fi
 
 if
-[ $mrrm = 81 ] || [ $mrrm = 81 ]
+[ $mrrm = 100 ] || [ $mrrm = 100 ]
 then
 clear
 toilet -f slant --gay "Spammer"
@@ -86,7 +86,7 @@ echo "\033[32;1mVersi: v2"
 sleep 1
 echo "\033[36;1mTeam: Network Ghost Security"
 sleep 1
-echo "\033[34;1mInformasi Lebih Lanjut Kunjungi: https://s4ufixed21.blogspot.com"
+echo "\033[34;1m Untuk Informasi Lebih Lanjut Kunjungi: https://s4ufixed21.blogspot.com"
 echo "\033[31;1m Spesial Thanks To: "
 echo "\033[36;1m"
 echo "Handika Pratama"
@@ -96,9 +96,9 @@ echo "KrozerNotMyeyes"
 echo "And you"
 sleep 1
 echo "And All Member Network Ghost Security"
-echo "\033[30;1m tunggu 8 detik"
-sleep 8
-sh LITESPAM.sh
+echo "\033[30;1m tunggu 10 detik"
+sleep 10
+sh lol.sh
 fi
 
 if
