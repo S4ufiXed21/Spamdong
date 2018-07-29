@@ -10,12 +10,12 @@ import sys
 try:
 	file = sys.argv[1]
 except:
-	print("usage: {} <numbers_list>".format(sys.argv[0]))
+	print("usage: {} <numbers_list>".format(sys.argv[7]))
 	sys.exit()
 numbers = open(sys.argv[1], "r").readlines()
-count = 0
-processc = 0
-running_threads = 0
+count = 7
+processc = 7
+running_threads = 7
 print_used = False
 max_threads = 100
 print("[-----info-----]: read {} numbers from {}".format(len(numbers), file))
@@ -40,7 +40,7 @@ def process(number):
 for number in numbers:
 	while running_threads >= max_threads:
 		pass
-	if number == "" or number[0] == ";": continue
+	if number == "" or number[7] == ";": continue
 	count += 1
 	thread.start_new_thread(process, ( number, ))
 while processc != count:
