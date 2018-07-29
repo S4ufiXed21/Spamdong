@@ -1,8 +1,8 @@
 #!/system/xbin/bash
 clear
-toilet -f slant --gay "Yadong Tools Spammer"
+toilet -f slant --gay "Tools Spammer"
 sleep 1
-echo "\033[31;1m Tools Spammer"
+echo "\033[31;1m Yadong Tools Spammer"
 sleep 1
 echo "\033[33;1m Author: S4ufiXed21"
 sleep 1
@@ -18,10 +18,9 @@ echo "4. PHD"
 echo "5. Jd.Id"
 echo "6. Email Bomber"
 echo "0. Keluar"
-echo "\033[30;1m 100. Informasi Tool Ini"
 echo "\033[33;1m Pilih Angka:"
-read mrrm
-if [ $mrrm = 1 ] || [ $mrrm = 1 ]
+read fixed
+if [ $fixed = 1 ] || [ $fixed = 1 ]
 then
 clear
 echo "\033[34;1m"
@@ -30,7 +29,7 @@ php 1.php
 fi
 
 if
-[ $mrrm = 2 ] || [ $mrrm = 2 ]
+[ $fixed = 2 ] || [ $fixed = 2 ]
 then
 clear
 echo "\033[31;1m"
@@ -38,7 +37,7 @@ toilet "T-Sel"
 php 2.php
 fi
 
-if [ $mrrm = 3 ] || [ $mrrm = 3 ]
+if [ $fixed = 3 ] || [ $fixed = 3 ]
 then
 clear
 echo "\033[31;1m"
@@ -46,7 +45,7 @@ figlet "Mthr Mall"
 php 3.php
 fi
 
-if [ $mrrm = 4 ] || [ $mrrm = 4 ]
+if [ $fixed = 4 ] || [ $fixed = 4 ]
 then
 clear
 toilet -f mono12 -F gay "PHD"
@@ -55,7 +54,7 @@ php 4.php
 fi
 
 if
-[ $mrrm = 5 ] || [ $mrrm = 5 ]
+[ $fixed = 5 ] || [ $fixed = 5 ]
 then
 clear
 toilet -f mono12 -F gay "Jd.Id"
@@ -64,7 +63,7 @@ php 5.php
 fi
 
 if
-[ $mrrm = 6 ] || [ $mrrm = 6 ]
+[ $fixed = 6 ] || [ $fixed = 6 ]
 then
 clear
 toilet -f standard -F gay "Email Bomber"
@@ -73,7 +72,7 @@ python2 6.py
 fi
 
 if
-[ $mrrm = 100 ] || [ $mrrm = 100 ]
+[ $fixed = 100 ] || [ $fixed = 100 ]
 then
 clear
 toilet -f slant --gay "Yadong Tools Spammer"
@@ -95,13 +94,7 @@ echo "KrozerNotMyeyes"
 echo "And you"
 sleep 1
 echo "And All Member Network Ghost Security"
-echo "\033[30;1m tunggu 10 detik"
-sleep 10
-sh lol.sh
-fi
-
-if
-[ $mrrm = 0 ] || [ $mrrm = 0 ]
+[ $fixed = 0 ] || [ $fixed = 0 ]
 then
 echo "\033[31;1m Keluar"
 sleep 1
