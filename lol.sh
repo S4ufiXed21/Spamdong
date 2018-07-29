@@ -26,7 +26,7 @@ then
 clear
 echo "\033[34;1m"
 figlet "tokopedia"
-php 1.php
+python2 1.py
 fi
 
 if
